@@ -1,0 +1,5 @@
+Prvo raspakirajte zip datoteku u direktorij. Pokrenite aplikaciju tako da otvorite .ipynb datoteku, a zatim idete kroz nju korak po korak. Bitno je da se ne izvlači ništa iz direktorija pošto sve mora biti u istome direktoriju. 
+
+Link na jupiter notebook: https://nbviewer.org/github/ibasljan22/Analiza-zadovoljstva-putnika-u-zracnom-prometu/blob/main/Projekt%20pzap%20-%20Ivan%20Ba%C5%A1ljan.ipynb
+
+Link na GitHub: https://github.com/ibasljan22/Analiza-zadovoljstva-putnika-u-zracnom-prometu/blob/main/Projekt%20pzap%20-%20Ivan%20Ba%C5%A1ljan.ipynb
